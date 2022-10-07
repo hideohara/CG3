@@ -3,6 +3,8 @@
 
 using namespace DirectX;
 
+// 配布エンジン
+
 GameScene::GameScene()
 {
 }
